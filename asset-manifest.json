@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/heart-react/static/css/main.cfb03cc8.chunk.css",
+    "main.js": "/heart-react/static/js/main.9f5a2bab.chunk.js",
+    "main.js.map": "/heart-react/static/js/main.9f5a2bab.chunk.js.map",
+    "runtime-main.js": "/heart-react/static/js/runtime-main.d9aeaf00.js",
+    "runtime-main.js.map": "/heart-react/static/js/runtime-main.d9aeaf00.js.map",
+    "static/js/2.368436ee.chunk.js": "/heart-react/static/js/2.368436ee.chunk.js",
+    "static/js/2.368436ee.chunk.js.map": "/heart-react/static/js/2.368436ee.chunk.js.map",
+    "index.html": "/heart-react/index.html",
+    "static/css/main.cfb03cc8.chunk.css.map": "/heart-react/static/css/main.cfb03cc8.chunk.css.map",
+    "static/js/2.368436ee.chunk.js.LICENSE.txt": "/heart-react/static/js/2.368436ee.chunk.js.LICENSE.txt",
+    "static/media/b.43b444bf.mp4": "/heart-react/static/media/b.43b444bf.mp4",
+    "static/media/banner.7bde8e65.png": "/heart-react/static/media/banner.7bde8e65.png",
+    "static/media/goldlogo.780ed21b.png": "/heart-react/static/media/goldlogo.780ed21b.png",
+    "static/media/img1.22686bf3.jpg": "/heart-react/static/media/img1.22686bf3.jpg",
+    "static/media/img2.0bb7b3ce.jpg": "/heart-react/static/media/img2.0bb7b3ce.jpg",
+    "static/media/img3.8613e9dd.jpg": "/heart-react/static/media/img3.8613e9dd.jpg",
+    "static/media/img4.2f2d2422.jpg": "/heart-react/static/media/img4.2f2d2422.jpg",
+    "static/media/img5.fb16eb27.jpg": "/heart-react/static/media/img5.fb16eb27.jpg",
+    "static/media/un.279509a1.png": "/heart-react/static/media/un.279509a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9aeaf00.js",
+    "static/js/2.368436ee.chunk.js",
+    "static/css/main.cfb03cc8.chunk.css",
+    "static/js/main.9f5a2bab.chunk.js"
+  ]
+}
