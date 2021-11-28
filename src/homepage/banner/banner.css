@@ -1,0 +1,219 @@
+
+.banner {
+    width: 1366px;
+    height: 722px;
+    display: flex;
+    margin: 0 auto;
+    position: relative;
+}
+
+.banner_top {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.banner_top img {
+    width: 100%;
+    height: 100%;
+}
+
+.banner video {
+    object-fit: fill;
+}
+
+
+
+.play_button {
+    position: absolute;
+    width: 86px;
+    height: 83px;
+    border: none;
+    outline: none !important;
+    border-radius: 50%;
+    top: 38%;
+    left: 47%;
+    cursor: pointer;
+    color: #fff;
+    font-size: 40px;
+ 
+    background-color: #ffa800;
+    z-index: 3;
+    align-items: center;
+    text-align: center;
+}
+
+
+@media all and (min-width: 993px) and (max-width: 1200px){
+ 
+   .banner {
+    width: 100%;
+    height: 100%;
+
+}
+
+.banner_top {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.banner_top img {
+    width: 100%;
+    height: 50%;
+}
+
+.banner video {
+    object-fit: fill;
+    padding-bottom: 0;
+}
+
+
+.play_button {
+    position: absolute;
+    width: 86px;
+    height: 83px;
+    border: none;
+    outline: none !important;
+    border-radius: 50%;
+    top: 38%;
+    left: 47%;
+    cursor: pointer;
+    color: #fff;
+    font-size: 36px;
+    background-color: #ffa800;
+    z-index: 3;
+    align-items: center;
+    text-align: center;
+}
+
+
+.play_button i {
+    font-size: 14px;
+    color: #fff;
+}
+}
+@media all and (min-width: 767px) and (max-width: 992px){
+   
+.banner_top {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.banner_top img {
+    width: 100%;
+    height: 50%;
+}
+   .banner {
+    width: 100%;
+    height: 100%;
+
+}
+
+.banner video {
+    object-fit: fill;
+    padding-bottom: 0;
+}
+
+.play_button {
+    width: 40px;
+    height: 40px;
+    top: 40%;
+    left: 48%;
+    right: 50%;
+    font-size: 16px;
+    align-items: center;
+}
+
+.play_button i {
+    font-size: 14px;
+    color: #fff;
+}
+}
+@media all and (min-width: 480px) and (max-width: 768px){
+   
+.banner_top {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.banner_top img {
+    width: 100%;
+    height: 50%;
+}
+   .banner {
+    width: 100%;
+    height: 100%;
+
+}
+
+.banner video {
+    object-fit: fill;
+    padding-bottom: 0;
+}
+
+.play_button {
+    width: 40px;
+    height: 40px;
+    top: 40%;
+    left: 48%;
+    right: 50%;
+    font-size: 16px;
+    align-items: center;
+}
+
+.play_button i {
+    font-size: 14px;
+    color: #fff;
+}
+}
+@media all and (min-width: 299px) and (max-width: 479px){
+ 
+.banner_top {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.banner_top img {
+    width: 100%;
+    height: 50%;
+}
+   .banner {
+    width: 100%;
+    height: 100%;
+
+}
+
+.banner video {
+    object-fit: fill;
+    padding-bottom: 0;
+}
+
+.play_button {
+    width: 40px;
+    height: 40px;
+    top: 40%;
+    left: 48%;
+    right: 50%;
+    font-size: 16px;
+    align-items: center;
+}
+
+.play_button i {
+    font-size: 14px;
+    color: #fff;
+}
+}
